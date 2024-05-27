@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4fcd2b94.chunk.css",
+    "main.js": "/static/js/main.d5494ae5.chunk.js",
+    "main.js.map": "/static/js/main.d5494ae5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.30d73e67.js",
+    "runtime-main.js.map": "/static/js/runtime-main.30d73e67.js.map",
+    "static/css/2.019f249c.chunk.css": "/static/css/2.019f249c.chunk.css",
+    "static/js/2.39a6e907.chunk.js": "/static/js/2.39a6e907.chunk.js",
+    "static/js/2.39a6e907.chunk.js.map": "/static/js/2.39a6e907.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.eaa24ee9a396c4be4e8cd27111054d32.js": "/precache-manifest.eaa24ee9a396c4be4e8cd27111054d32.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.019f249c.chunk.css.map": "/static/css/2.019f249c.chunk.css.map",
+    "static/css/main.4fcd2b94.chunk.css.map": "/static/css/main.4fcd2b94.chunk.css.map",
+    "static/media/1ppd.png": "/static/media/1ppd.93f45811.png",
+    "static/media/2022-S-ME-class-all.png": "/static/media/2022-S-ME-class-all.06d90314.png",
+    "static/media/2022-S-ME-class.png": "/static/media/2022-S-ME-class.9ee4879e.png",
+    "static/media/2023-2024-calinder-3.png": "/static/media/2023-2024-calinder-3.4403e7fd.png",
+    "static/media/2023-physics-summer-s.png": "/static/media/2023-physics-summer-s.eecc1270.png",
+    "static/media/22-23-calinder.png": "/static/media/22-23-calinder.4e169a86.png",
+    "static/media/katex.min.css": "/static/media/KaTeX_Typewriter-Regular.f43e8696.woff2",
+    "static/media/amc-mathcount.png": "/static/media/amc-mathcount.3035be6e.png",
+    "static/media/index.css": "/static/media/up.bdc4e97f.svg",
+    "static/media/class-3-2021-summer.png": "/static/media/class-3-2021-summer.bb96ef79.png",
+    "static/media/class2021summer2.png": "/static/media/class2021summer2.c4490f5d.png",
+    "static/media/logo192.png": "/static/media/logo192.a201a234.png",
+    "static/media/me-8-4-3.png": "/static/media/me-8-4-3.1895dd08.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30d73e67.js",
+    "static/css/2.019f249c.chunk.css",
+    "static/js/2.39a6e907.chunk.js",
+    "static/css/main.4fcd2b94.chunk.css",
+    "static/js/main.d5494ae5.chunk.js"
+  ]
+}

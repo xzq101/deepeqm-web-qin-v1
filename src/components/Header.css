@@ -1,0 +1,25 @@
+.navbar-brand {
+  margin: 0px;
+  padding: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.logo {
+  height: 70px;
+  margin-top: -10px;
+  margin-bottom: -10px;
+}
+.no-border {
+  border: 0 !important;
+}
+.nav-font-size-2 {
+  font-size: 2em !important;
+}
+.nav-font-size-15 {
+  font-size: 2em !important;
+}
+.header-language {
+  padding: 0 8px !important;
+}
